@@ -1,6 +1,7 @@
 <h3 align="center">Moderate frontend developer</h3>
 
-<p align="left"></p>
+<br/>
+<br/>
 
 <h3 align="left">Languages</h3>
 <p align="left">
@@ -17,6 +18,9 @@
     height="40"
   />
 </p>
+
+<br/>
+
 <h3 align="left">FE Framework</h3>
 <p align="left">
 <img
@@ -43,6 +47,9 @@
     height="40"
   />
 </p>
+
+<br/>
+
 <h3 align="left">FE develop tools &#38; library</h3>
 <p align="left">
 <img
@@ -89,6 +96,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
   />
 </p>
 
+<br/>
+<br/>
+
 <h3 align="left">BE Framework</h3>
 <p align="left">
 <img
@@ -104,8 +114,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
     height="40"
   />
 </p>
-<h3 align="left">BE develop tools &#38; library</h3>
 
+<br/>
+
+<h3 align="left">BE develop tools &#38; library</h3>
 <p align="left">
 <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -126,6 +138,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
     height="40"
   />
 </p>
+
+<br/>
 
 <p align="center">
 <img
