@@ -1,10 +1,9 @@
-<h3 align="center">Moderate frontend developer</h3>
+<h2 align="center">Junior frontend developer</h2>
 
 <br/>
-<br/>
 
-<h3 align="left">Languages</h3>
-<p align="left">
+<h3 align="center">Languages</h3>
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
@@ -19,10 +18,8 @@
   />
 </p>
 
-<br/>
-
-<h3 align="left">FE Framework</h3>
-<p align="left">
+<h3 align="center">FE Framework</h3>
+<p align="center">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
     alt="react"
@@ -48,10 +45,8 @@
   />
 </p>
 
-<br/>
-
-<h3 align="left">FE tools &#38; library</h3>
-<p align="left">
+<h3 align="center">FE tools &#38; library</h3>
+<p align="center">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
     alt="html5"
@@ -102,10 +97,9 @@ src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
 </p>
 
 <br/>
-<br/>
 
-<h3 align="left">BE Framework</h3>
-<p align="left">
+<h3 align="center">BE Framework</h3>
+<p align="center">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
     alt="express"
@@ -120,10 +114,8 @@ src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
   />
 </p>
 
-<br/>
-
-<h3 align="left">BE tools &#38; library</h3>
-<p align="left">
+<h3 align="center">BE tools &#38; library</h3>
+<p align="center">
 <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
     alt="firebase"
