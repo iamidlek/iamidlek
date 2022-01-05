@@ -88,6 +88,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
     width="40"
     height="40"
   />
+  <img src="https://pbs.twimg.com/profile_images/1377116487933030410/kyyHFjc2_400x400.jpg" alt="recoil" width="40"
+    height="40">
+  <img
+  <img src="https://media.vlpt.us/images/woohm402/post/f50d9e7b-910a-4db8-963b-ba19fff6bc78/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query" width="40"
+    height="40">
   <img
     src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
     alt="jest"
