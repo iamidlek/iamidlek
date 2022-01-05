@@ -50,7 +50,7 @@
 
 <br/>
 
-<h3 align="left">FE develop tools &#38; library</h3>
+<h3 align="left">FE tools &#38; library</h3>
 <p align="left">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -122,7 +122,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3
 
 <br/>
 
-<h3 align="left">BE develop tools &#38; library</h3>
+<h3 align="left">BE tools &#38; library</h3>
 <p align="left">
 <img
     src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
