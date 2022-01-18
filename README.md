@@ -1,139 +1,28 @@
 <h2 align="center">Junior frontend developer</h2>
 
-<br/>
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript"
-    width="40"
-    height="40"
-  />
+ <a href="javascript:void(0)"><img src="https://img.shields.io/badge/JavaScript-12457A?style=flat&logo=JavaScript&logoColor=F7DF1E" style="max-width: 100%;"></a>
+ <a href="javascript:void(0)"><img src="https://img.shields.io/badge/TypeScript-12457A?style=flat&logo=TypeScript&logoColor=3178C6" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="center">FE Framework</h3>
 <p align="center">
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react"
-    width="40"
-    height="40"
-  />
-  <img 
-    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" 
-    alt="nextjs" 
-    width="40" 
-    height="40"/>
-  <img
-    src="https://reactnative.dev/img/header_logo.svg"
-    alt="reactnative"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-    alt="vuejs"
-    width="40"
-    height="40"
-  />
+ <a href="javascript:void(0)"><img src="https://img.shields.io/badge/React-12457A?style=flat&logo=React&logoColor=61DAFB" style="max-width: 100%;"></a>
+ <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Next-12457A?style=flat&logo=Next.js&logoColor=000000" style="max-width: 100%;"></a>
+ <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Vue-12457A?style=flat&logo=Vue.js&logoColor=4FC08D" style="max-width: 100%;"></a>
 </p>
 
 <h3 align="center">FE tools &#38; library</h3>
 <p align="center">
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-    alt="css3"
-    width="40"
-    height="40"
-  />
-    <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-    alt="babel"
-    width="40"
-    height="40"
-  />
-<img
-src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg"
-    alt="webpack"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
-    width="40"
-    height="40"
-  />
-  <img src="https://pbs.twimg.com/profile_images/1377116487933030410/kyyHFjc2_400x400.jpg" alt="recoil" width="40"
-    height="40">
-  <img
-  <img src="https://media.vlpt.us/images/woohm402/post/f50d9e7b-910a-4db8-963b-ba19fff6bc78/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" alt="react-query" width="40"
-    height="40">
-  <img
-    src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-    alt="jest"
-    width="40"
-    height="40"
-  />
-</p>
-
-<br/>
-
-<h3 align="center">BE Framework</h3>
-<p align="center">
-<img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-    alt="nestjs"
-    width="40"
-    height="40"
-  />
-</p>
-
-<h3 align="center">BE tools &#38; library</h3>
-<p align="center">
-<img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-    alt="graphql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/HTML-12457A?style=flat&logo=HTML5&logoColor=E34F26" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/CSS-12457A?style=flat&logo=CSS3&logoColor=1572B6" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/SCSS-12457A?style=flat&logo=Sass&logoColor=CC6699" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Babel-12457A?style=flat&logo=Babel&logoColor=F9DC3E" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Webpack-12457A?style=flat&logo=Webpack&logoColor=8DD6F9" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Redux-12457A?style=flat&logo=Redux&logoColor=764ABC" style="max-width: 100%;"></a>
+  <a href="javascript:void(0)"><img src="https://img.shields.io/badge/Saga-12457A?style=flat&logo=Redux-Saga&logoColor=999999" style="max-width: 100%;"></a>
 </p>
 
 <br/>
